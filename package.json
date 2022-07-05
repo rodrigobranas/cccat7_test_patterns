@@ -1,0 +1,17 @@
+{
+  "name": "cccat7_test_patterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/jest": "^28.1.4",
+    "@types/sinon": "^10.0.12",
+    "axios": "^0.27.2",
+    "jest": "^28.1.2",
+    "pg-promise": "^10.11.1",
+    "sinon": "^14.0.0",
+    "ts-jest": "^28.0.5",
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
+  }
+}
